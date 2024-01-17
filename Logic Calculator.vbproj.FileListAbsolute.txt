@@ -1,0 +1,12 @@
+C:\Users\Jessica Remot\source\repos\Logic Calculator\Logic Calculator\bin\Debug\Logic Calculator.exe.config
+C:\Users\Jessica Remot\source\repos\Logic Calculator\Logic Calculator\bin\Debug\Logic Calculator.exe
+C:\Users\Jessica Remot\source\repos\Logic Calculator\Logic Calculator\bin\Debug\Logic Calculator.pdb
+C:\Users\Jessica Remot\source\repos\Logic Calculator\Logic Calculator\bin\Debug\Logic Calculator.xml
+C:\Users\Jessica Remot\source\repos\Logic Calculator\Logic Calculator\obj\Debug\Logic Calculator.vbprojAssemblyReference.cache
+C:\Users\Jessica Remot\source\repos\Logic Calculator\Logic Calculator\obj\Debug\Logic_Calculator.Form1.resources
+C:\Users\Jessica Remot\source\repos\Logic Calculator\Logic Calculator\obj\Debug\Logic_Calculator.Resources.resources
+C:\Users\Jessica Remot\source\repos\Logic Calculator\Logic Calculator\obj\Debug\Logic Calculator.vbproj.GenerateResource.cache
+C:\Users\Jessica Remot\source\repos\Logic Calculator\Logic Calculator\obj\Debug\Logic Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Jessica Remot\source\repos\Logic Calculator\Logic Calculator\obj\Debug\Logic Calculator.exe
+C:\Users\Jessica Remot\source\repos\Logic Calculator\Logic Calculator\obj\Debug\Logic Calculator.xml
+C:\Users\Jessica Remot\source\repos\Logic Calculator\Logic Calculator\obj\Debug\Logic Calculator.pdb
